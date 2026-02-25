@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S001",
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "password": "priya123",
+    "branch": "Computer Science",
+    "year": "3rd Year",
+    "skills": ["Python", "Machine Learning", "SQL", "Pandas", "NumPy"],
+    "projects": "Sentiment Analysis using NLP, Student Result Predictor",
+    "preferred_domain": "Data Science",
+    "bio": "Passionate about AI/ML and data-driven solutions."
+  },
+  {
+    "id": "S002",
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "password": "rahul123",
+    "branch": "Information Technology",
+    "year": "2nd Year",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Node.js"],
+    "projects": "E-commerce Website, Portfolio Builder",
+    "preferred_domain": "Web Development",
+    "bio": "Frontend enthusiast who loves building beautiful UIs."
+  },
+  {
+    "id": "S003",
+    "name": "Ananya Iyer",
+    "email": "ananya@example.com",
+    "password": "ananya123",
+    "branch": "Electronics",
+    "year": "4th Year",
+    "skills": ["Python", "C++", "Arduino", "IoT", "Embedded Systems"],
+    "projects": "Smart Home Automation, Weather Monitoring System",
+    "preferred_domain": "IoT / Embedded",
+    "bio": "Love working at the intersection of hardware and software."
+  },
+  {
+    "id": "S004",
+    "name": "Karan Mehta",
+    "email": "karan@example.com",
+    "password": "karan123",
+    "branch": "Computer Science",
+    "year": "3rd Year",
+    "skills": ["Java", "Spring Boot", "MySQL", "REST API", "Docker"],
+    "projects": "Hospital Management System, Online Exam Portal",
+    "preferred_domain": "Backend Development",
+    "bio": "Backend developer with interest in scalable systems."
+  },
+  {
+    "id": "S005",
+    "name": "Neha Gupta",
+    "email": "neha@example.com",
+    "password": "neha123",
+    "branch": "MCA",
+    "year": "1st Year",
+    "skills": ["Python", "SQL", "Excel", "Power BI"],
+    "projects": "Sales Dashboard, Inventory Tracker",
+    "preferred_domain": "Data Analytics",
+    "bio": "Aspiring data analyst with a love for storytelling through data."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C001",
+    "name": "TechNova Solutions",
+    "email": "technova@example.com",
+    "password": "tech123",
+    "industry": "Software / AI",
+    "description": "A fast-growing AI startup building intelligent automation tools.",
+    "website": "www.technovasolutions.in"
+  },
+  {
+    "id": "C002",
+    "name": "WebWave Agency",
+    "email": "webwave@example.com",
+    "password": "web123",
+    "industry": "Web Development",
+    "description": "Creative digital agency delivering stunning web experiences.",
+    "website": "www.webwaveagency.in"
+  },
+  {
+    "id": "C003",
+    "name": "DataBridge Analytics",
+    "email": "databridge@example.com",
+    "password": "data123",
+    "industry": "Data Analytics",
+    "description": "We transform raw data into actionable business insights.",
+    "website": "www.databridgeanalytics.in"
+  }
+]

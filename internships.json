@@ -1,0 +1,67 @@
+[
+  {
+    "id": "I001",
+    "company_id": "C001",
+    "company_name": "TechNova Solutions",
+    "role": "ML Engineer Intern",
+    "required_skills": ["Python", "Machine Learning", "Pandas", "NumPy", "Scikit-learn"],
+    "stipend": 15000,
+    "duration": "3 Months",
+    "domain": "Data Science",
+    "location": "Bangalore (Remote)",
+    "description": "Work on real-world ML models for predictive analytics. You will be involved in data preprocessing, model training, and evaluation.",
+    "posted_date": "2024-01-10"
+  },
+  {
+    "id": "I002",
+    "company_id": "C002",
+    "company_name": "WebWave Agency",
+    "role": "Frontend Developer Intern",
+    "required_skills": ["JavaScript", "React", "HTML", "CSS", "Git"],
+    "stipend": 10000,
+    "duration": "2 Months",
+    "domain": "Web Development",
+    "location": "Mumbai (Hybrid)",
+    "description": "Build responsive and interactive web interfaces for client projects. Collaborate with designers and backend teams.",
+    "posted_date": "2024-01-12"
+  },
+  {
+    "id": "I003",
+    "company_id": "C003",
+    "company_name": "DataBridge Analytics",
+    "role": "Data Analyst Intern",
+    "required_skills": ["Python", "SQL", "Excel", "Power BI", "Tableau"],
+    "stipend": 12000,
+    "duration": "3 Months",
+    "domain": "Data Analytics",
+    "location": "Hyderabad (Remote)",
+    "description": "Analyze large datasets, build dashboards, and present insights to business stakeholders.",
+    "posted_date": "2024-01-15"
+  },
+  {
+    "id": "I004",
+    "company_id": "C001",
+    "company_name": "TechNova Solutions",
+    "role": "Python Backend Intern",
+    "required_skills": ["Python", "Flask", "REST API", "SQL", "Docker"],
+    "stipend": 13000,
+    "duration": "2 Months",
+    "domain": "Backend Development",
+    "location": "Bangalore (On-site)",
+    "description": "Build and maintain backend APIs for our AI platform. Experience with Flask and REST APIs preferred.",
+    "posted_date": "2024-01-18"
+  },
+  {
+    "id": "I005",
+    "company_id": "C002",
+    "company_name": "WebWave Agency",
+    "role": "Full Stack Intern",
+    "required_skills": ["JavaScript", "React", "Node.js", "MongoDB", "CSS"],
+    "stipend": 12000,
+    "duration": "3 Months",
+    "domain": "Web Development",
+    "location": "Delhi (Remote)",
+    "description": "Work across the stack to build modern web applications end-to-end.",
+    "posted_date": "2024-01-20"
+  }
+]
