@@ -25,7 +25,7 @@ st.set_page_config(
 )
 
 # ─── Imports (after set_page_config) ──────────────────────────────────────────
-from modulesimport student_page, company_page, admin_page
+from modules import student_page, company_page, admin_page
 
 # ─── Global CSS ───────────────────────────────────────────────────────────────
 st.markdown("""
